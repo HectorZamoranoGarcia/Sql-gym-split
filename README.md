@@ -1,6 +1,12 @@
-# Gym Performance Intelligence System (GPIS)
+# Gym Performance Intelligence System
 
 **Data engineering project and advanced sports performance analysis based on business logic, relational logic and SQL (SQLite).**
+
+![SQLite 3.45+](https://img.shields.io/badge/SQLite-v3.45+-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Advanced SQL](https://img.shields.io/badge/SQL-Window_Functions-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Relational Logic](https://img.shields.io/badge/Logic-Relational_Modeling-232F3E?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Workflow-Antigravity-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 The routine is based on my personal 7-day hypertrophy-focused gym split. The synthetic data was generated using randomized fatigue logic to validate the algorithms.
 
